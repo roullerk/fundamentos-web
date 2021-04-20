@@ -1,0 +1,86 @@
+/* index */
+
+body {
+    background: black;
+}
+
+head {
+    position: fixed;
+}
+
+.letracorLa {
+    color: rgba(227, 9, 247, 0.979);
+}
+
+.colornav {
+    color: #000000
+}
+
+.textm {
+    text-align: center;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(227, 9, 247, 0.979);
+    top: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    background-color: rgba(227, 9, 247, 0.979);
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding-right: 35px;
+    font-size: 20px;
+}
+
+.paddleft {
+    padding-left: 80px;
+}
+
+.paddup {
+    padding-top: 50px;
+}
+
+
+/*personagens*/
+
+.br {
+    border-radius: 50%;
+}
+
+.tam {
+    width: 350px;
+    height: 350px;
+}
+
+.tam2 {
+    width: 600px;
+    height: 600px;
+}
+
+
+/*Animes*/
+
+.ls {
+    font-size: 15px;
+}
+
+.dtd {
+    order: 90;
+}
+
+hr {
+    border-color: #EB803D;
+}
